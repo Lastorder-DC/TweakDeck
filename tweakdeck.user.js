@@ -2,6 +2,7 @@
 // @name     TweakDeck
 // @version  1
 // @grant    none
+// @include     https://tweetdeck.twitter.com/*
 // ==/UserScript==
 
 async function attachClasses() {
